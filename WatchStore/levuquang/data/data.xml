@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Authors>
+	<Student>
+		<StudentId>1</StudentId>
+		<StudentName>Lê Vũ Quang</StudentName>
+		<DoB>12/05/2001</DoB>
+		<ClassName>ĐH Tin 13A5</ClassName>
+		<TeamLeader>Yes</TeamLeader>
+	</Student>
+	<Student>
+		<StudentId>1</StudentId>
+		<StudentName>Điền Thị Hồng Hà</StudentName>
+		<DoB>- Giáo viên hướng dẫn</DoB>
+		<ClassName>ĐH Tin 13A5</ClassName>
+		<TeamLeader>No</TeamLeader>
+	</Student>
+</Authors>
